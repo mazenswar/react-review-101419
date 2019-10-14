@@ -1,0 +1,59 @@
+{
+  "tweets": [
+    {
+      "id": 1,
+      "content": "IT TAKES TWO TO LIE; ONE TO LIE, AND ONE TO LISTEN.",
+      "username": "Homer Simpson"
+    },
+    {
+      "id": 2,
+      "content": "KIDS, YOU TRIED YOUR BEST AND YOU FAILED MISERABLY. THE LESSON IS, NEVER TRY.",
+      "username": "Homer Simpson"
+    },
+    {
+      "id": 3,
+      "content": "I believe that children are our future. Unless we stop them now.",
+      "username": "Homer Simpson"
+    },
+    {
+      "id": 4,
+      "content": "Sometimes science is a lot more art than science. A lot of people don't get that.",
+      "username": "Rick Sanchez"
+    },
+    {
+      "id": 5,
+      "content": "Uncertainty is inherently unsustainable. Eventually, everything either is or isn't.",
+      "username": "Rick Sanchez"
+    },
+    {
+      "id": 6,
+      "content": "fur is murder",
+      "username": "Lisa Simpson"
+    },
+    {
+      "id": 7,
+      "content": "ay caramba",
+      "username": "Bart Simpson"
+    },
+    {
+      "id": 8,
+      "content": "Hmmmmmmmm Donuts",
+      "username": "Homer Simpson"
+    },
+    {
+      "id": 9,
+      "content": "D'oh",
+      "username": "Homer Simpson"
+    },
+    {
+      "id": 10,
+      "content": "wubba lubba dub dub",
+      "username": "Rick Sanchez"
+    },
+    {
+      "content": "Helloooo",
+      "username": "test",
+      "id": 11
+    }
+  ]
+}
