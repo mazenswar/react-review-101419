@@ -1,16 +1,11 @@
 import React from 'react';
 
-const SingleTweet = ({ tweet, handleLike }) => {
+const SingleTweet = props => {
   return (
     <div className="single-tweet">
-      <p>{tweet.content}</p>
-      <span className="username">By {tweet.username}</span>
-      <span
-        onClick={() => handleLike(tweet)}
-        className="heart"
-        role="img"
-        aria-label="heart"
-      >
+      <p>Tweet Content</p>
+      <span className="username">By: username</span>
+      <span className="heart" role="img" aria-label="heart">
         ❤️
       </span>
     </div>
